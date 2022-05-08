@@ -11,5 +11,6 @@ Hackintosh for Intel ONDA-H510-VH with i5-10400F and Radeon RX550(Lexa) Hardware
 | Audio | Realtek ALC897 |
 
 ## Other
-1.Hibernate not working now.
-2.OpenCore boot up will display some garbled code, but does not affect normal use.
+1. Hibernate not working now.
+
+2. OpenCore boot up will display some garbled code, but does not affect normal use.
