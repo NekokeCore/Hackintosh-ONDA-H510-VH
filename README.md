@@ -14,3 +14,8 @@ Hackintosh for Intel ONDA-H510-VH with i5-10400F and Radeon RX550(Lexa) Hardware
 1. Hibernate not working now.
 
 2. OpenCore boot up will display some garbled code, but does not affect normal use.
+
+## Screenshot
+![info](./Pic/info.png)
+
+![RAM](./Pic/RAM.png)
